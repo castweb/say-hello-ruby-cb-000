@@ -1,4 +1,4 @@
 def say_hello(language="Ruby Programmer!")
-  puts "#{phrase}" + "#{language}" + "!"
+  puts "Hello " + "#{language}" + "!"
 end
 irb
